@@ -24,4 +24,4 @@ Recipient:
 5. AUTOCOOK-PC (Val 3, VMware)
 6. AUTOCOOK-PC (Val 4, VMware)
 7. 001-PC (Baste, VMware)
-8. - (Karl Ivan 2)
+8. PC-06 (Karl Ivan 2)
